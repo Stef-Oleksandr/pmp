@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
     elevation: 5, // Для Android
     borderWidth: 1,
     borderColor: '#ddd', // Додаємо рамку
-    fontFamily: 'Arial', // Змінюємо шрифт (переконайтеся, що шрифт доступний)
+    fontFamily: 'serif', // Змінюємо шрифт (переконайтеся, що шрифт доступний)
   },
 });
 
